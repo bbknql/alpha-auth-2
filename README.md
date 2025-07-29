@@ -34,3 +34,4 @@ pytest
 ## Deployment
 
 See [deployment guide](docs/deployment.md) for production setup.
+# Patch 1759440367 - Patches security vulnerability in authentication
