@@ -34,3 +34,4 @@ pytest
 ## Deployment
 
 See [deployment guide](docs/deployment.md) for production setup.
+# Version: alpha-3 - 2025-10-03
