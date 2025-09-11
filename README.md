@@ -34,3 +34,9 @@ pytest
 ## Deployment
 
 See [deployment guide](docs/deployment.md) for production setup.
+
+## Changes - 2025-10-03
+
+- Improves user authentication flow
+- Minor bug fixes and improvements
+- Updated dependencies
